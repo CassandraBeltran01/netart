@@ -1,11 +1,19 @@
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "anton", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
+  text-align: center;
 }
-
+ <style>
+body {
+  background-image: url(images/fall.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%
+}
+ <style>
 h1 {
   color: red;
   padding: 20px 0px 10px 0px;
